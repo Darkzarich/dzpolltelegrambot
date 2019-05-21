@@ -1,13 +1,14 @@
-{	
+{
 	"settings": {
-		"greeting": "",
-		"farewell": "Thanks for your answers! Have a good day!"
+		"greeting": "I'm a poll bot! Would you like to answer few my questions",
+		"farewell": "Thanks for your answers! Have a good day!",
+		"stop": "Aww, I'm happy that you want to talk to me more but you have already answered all my questions hence we're done here, I'm so sorry"
 	},
 	"questions": {
 		"question_1": {
-			"question": { 
+			"question": {
 				"short": "Knowledge of the product",
-				"full": "Rate your knowledge of the product, please !"
+				"full": "Rate your knowledge of our product, please !"
 			},
 			"answers": {
 				"answer_1": "Poor",
@@ -15,11 +16,11 @@
 				"answer_3": "Good",
 				"answer_4": "Very Good",
 				"answer_5": "Excellent",
-				"answer_6": "I can't describe",
+				"answer_6": "I can't describe"
 			}
 		},
 		"question_2": {
-			"question": { 
+			"question": {
 				"short": "Understanding of your issue",
 				"full": "Rate our support's understanding of your issue, please !"
 			},
@@ -29,11 +30,11 @@
 				"answer_3": "Good",
 				"answer_4": "Very Good",
 				"answer_5": "Excellent",
-				"answer_6": "I can't describe",
+				"answer_6": "I can't describe"
 			}
 		},
 		"question_3": {
-			"question": { 
+			"question": {
 				"short": "Willingness to help",
 				"full": "Rate our support's willingness to help, please !"
 			},
@@ -43,11 +44,11 @@
 				"answer_3": "Good",
 				"answer_4": "Very Good",
 				"answer_5": "Excellent",
-				"answer_6": "I can't describe",
+				"answer_6": "I can't describe"
 			}
 		},
 		"question_4": {
-			"question": { 
+			"question": {
 				"short": "Efficiency/quickness",
 				"full": "Rate our support's efficiency/quickness, please !"
 			},
@@ -57,11 +58,11 @@
 				"answer_3": "Good",
 				"answer_4": "Very Good",
 				"answer_5": "Excellent",
-				"answer_6": "I can't describe",
+				"answer_6": "I can't describe"
 			}
 		},
 		"question_5": {
-			"question": { 
+			"question": {
 				"short": "Ability to complete transaction",
 				"full": "Rate your ability to complete transaction, please!"
 			},
@@ -71,11 +72,11 @@
 				"answer_3": "Good",
 				"answer_4": "Very Good",
 				"answer_5": "Excellent",
-				"answer_6": "I can't describe",
+				"answer_6": "I can't describe"
 			}
 		},
 		"question_6": {
-			"question": { 
+			"question": {
 				"short": "Level of satisfaction with resolution",
 				"full": "Rate your level of satisfaction with resolution, please!"
 			},
@@ -85,8 +86,8 @@
 				"answer_3": "Good",
 				"answer_4": "Very Good",
 				"answer_5": "Excellent",
-				"answer_6": "I can't describe",
+				"answer_6": "I can't describe"
 			}
-		},
+		}
 	}
 }
