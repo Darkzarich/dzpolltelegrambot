@@ -1,8 +1,11 @@
 {
 	"settings": {
-		"greeting": "I'm a poll bot! Would you like to answer few my questions",
-		"farewell": "Thanks for your answers! Have a good day!",
-		"stop": "Aww, I'm happy that you want to talk to me more but you have already answered all my questions hence we're done here, I'm so sorry"
+		"greeting": "I'm a poll bot! Would you like to answer few my questions. Press 'Yes' button or send 'yes' if you are ready.",
+		"farewell": "We're finished! Thanks for your answers! Have a good day!",
+		"stop": "Aww, I'm happy that you want to talk to me more but you have already answered all my questions hence we're done here, I'm so sorry",
+		"wrong": "Sorry, I didn't get you :( ...",
+		"begin": "Alright, let's begin then! :)",
+		"thanks": "Many thanks for your answer! Next thing I ask you is going to be..."
 	},
 	"questions": {
 		"question_1": {
