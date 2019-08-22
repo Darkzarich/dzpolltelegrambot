@@ -1,0 +1,96 @@
+{
+	"settings": {
+		"greeting": "I'm a poll bot! Would you like to answer few my questions. Press 'Yes' button or send 'yes' if you are ready.",
+		"farewell": "We're finished! Thanks for your answers! Have a good day!",
+		"stop": "Aww, I'm happy that you want to talk to me more but you have already answered all my questions hence we're done here, I'm so sorry",
+		"wrong": "Sorry, I didn't get you :( ...",
+		"begin": "Alright, let's begin then! :)",
+		"thanks": "Many thanks for your answer! Next thing I ask you is going to be..."
+	},
+	"questions": {
+		"question_1": {
+			"question": {
+				"short": "Knowledge of the product",
+				"full": "Rate your knowledge of our product, please !"
+			},
+			"answers": {
+				"answer_1": "Poor",
+				"answer_2": "Fair",
+				"answer_3": "Good",
+				"answer_4": "Very Good",
+				"answer_5": "Excellent",
+				"answer_6": "I can't describe"
+			}
+		},
+		"question_2": {
+			"question": {
+				"short": "Understanding of your issue",
+				"full": "Rate our support's understanding of your issue, please !"
+			},
+			"answers": {
+				"answer_1": "Poor",
+				"answer_2": "Fair",
+				"answer_3": "Good",
+				"answer_4": "Very Good",
+				"answer_5": "Excellent",
+				"answer_6": "I can't describe"
+			}
+		},
+		"question_3": {
+			"question": {
+				"short": "Willingness to help",
+				"full": "Rate our support's willingness to help, please !"
+			},
+			"answers": {
+				"answer_1": "Poor",
+				"answer_2": "Fair",
+				"answer_3": "Good",
+				"answer_4": "Very Good",
+				"answer_5": "Excellent",
+				"answer_6": "I can't describe"
+			}
+		},
+		"question_4": {
+			"question": {
+				"short": "Efficiency/quickness",
+				"full": "Rate our support's efficiency/quickness, please !"
+			},
+			"answers": {
+				"answer_1": "Poor",
+				"answer_2": "Fair",
+				"answer_3": "Good",
+				"answer_4": "Very Good",
+				"answer_5": "Excellent",
+				"answer_6": "I can't describe"
+			}
+		},
+		"question_5": {
+			"question": {
+				"short": "Ability to complete transaction",
+				"full": "Rate your ability to complete transaction, please!"
+			},
+			"answers": {
+				"answer_1": "Poor",
+				"answer_2": "Fair",
+				"answer_3": "Good",
+				"answer_4": "Very Good",
+				"answer_5": "Excellent",
+				"answer_6": "I can't describe"
+			}
+		},
+		"question_6": {
+			"question": {
+				"short": "Level of satisfaction with resolution",
+				"full": "Rate your level of satisfaction with resolution, please!"
+			},
+			"answers": {
+				"answer_1": "Poor",
+				"answer_2": "Fair",
+				"answer_3": "Good",
+				"answer_4": "Very Good",
+				"answer_5": "Excellent",
+				"answer_6": "I can't describe"
+			}
+		}
+	}
+}
